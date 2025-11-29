@@ -41,13 +41,7 @@ The dashboard provides accurate stock status, demand forecasting, sales analytic
 
 ---
 
-## 🚀 How to Run
 
-```bash
-# Clone repository
-git clone <repo-url>
-
-# Install backend dependencies
 pip install -r requirements.txt
 
 # Start backend
